@@ -1,8 +1,6 @@
-# Tiloki Privacy Policy — Draft
+# Tiloki Privacy Policy
 
-**Status:** Draft — not yet effective
-
-**Effective date:** The date of the Google Play release
+**Effective date:** First public Google Play release
 
 Tiloki is an offline puzzle game. This policy applies to the no-ad,
 no-purchase Android V1 build identified in the Play listing as **Tiloki**.
@@ -45,6 +43,5 @@ the relevant data handling begins.
 
 ## Contact
 
-Before publication, replace this paragraph with the publisher's legal name and
-a monitored privacy/support email address. The final policy must be hosted at a
-public, non-geofenced, non-editable URL.
+For privacy questions, contact **Gonçalo Simões** at
+[mondegostudios@gmail.com](mailto:mondegostudios@gmail.com).
